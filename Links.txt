@@ -1,0 +1,5 @@
+<li>@Html.ActionLink("Json Result", "TestJson")</li>
+
+
+Implement checkbox in dropdown
+https://www.c-sharpcorner.com/article/dropdownlist-multi-select-with-checkboxlist-in-mvc-using-jquery/
